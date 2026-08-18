@@ -1,6 +1,8 @@
-# Ali Akhmad Fauzie - Power Platform Portfolio
+# Ali Akhmad Fauzie - Enterprise Power Platform & Dataverse Architect
 
-An interactive executive portfolio, live enterprise migration showcase, competency matrix, and Power Platform application demos. Built with React, Tailwind CSS, and Vite.
+Enterprise Power Platform & Dynamics 365 Solution Architect specializing in Dataverse-first architecture, C# Plugins, PCF Controls, enterprise ALM, and AI governance.
+
+This repository contains an interactive executive portfolio, live enterprise migration showcase, competency matrix, and Power Platform application demos built with React, Tailwind CSS, and Vite.
 
 ## Features
 
